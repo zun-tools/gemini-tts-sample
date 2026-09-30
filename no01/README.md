@@ -23,4 +23,4 @@ GEMINI_API_KEY="AIza..." uv run tts_demo.py
 - 数字は変わることがあるので、上限は自分で確かめてください。
 - 生成した音声の扱いはGoogleの利用規約に従ってください。
 
-動画: （公開後に追記）
+動画: https://youtu.be/n0EtEmKkKAo （2026-10-01 07:00 公開）
